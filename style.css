@@ -1,0 +1,102 @@
+*{
+    padding: 0px;
+    margin: 0;
+}
+body{
+        font-family: "Young Serif", serif;    
+}
+.section_1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 15px;
+}
+.section_1--Name{
+    font-size: 40px;
+    margin-top: 15px;
+}
+.section_1--role{
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.section_1--contact{
+    background-color: orangered;
+    color: white;
+    width: 40px;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
+.section_2{
+    margin: 15px;
+}
+.section_2 h1{
+    margin-bottom: 10px;
+}
+.section_3{
+    width: 180px;
+    height: 250px;
+    background-color: #4240D4;
+    color: black;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 12px;
+    display: inline-block;
+    vertical-align: top;
+}
+.section_3 h2{
+    margin-bottom: 15px;
+}
+.section_3 li, .section_4 li{
+    list-style: none;
+}
+.section_4{
+    width:600px;
+    height: 250px;
+    background-color: orangered;
+    color: black;
+    padding: 20px;
+    border-radius: 12px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.section_5{
+    background-color: black;
+    color: white;
+    margin: 15px;
+    padding: 20px;
+}
+.section_5--links{
+    margin-bottom: 15px;
+}
+.contact_section{
+    margin: 15px;
+}
+.contact_section-input{
+    border: none;
+    border-bottom:2px black solid;
+    padding: 10px;
+}
+.contact_section td{
+    margin-bottom: 5px;
+    padding-bottom: 20px;
+}
+.contact_section textarea{
+    border: 1px solid black;
+    padding :12px;
+}
+.contact_section-submit{
+    border: none;
+    border: 1px solid black;
+    background-color: orangered;
+    color: black;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
